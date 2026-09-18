@@ -1,0 +1,15 @@
+/descargar-cv.pdf
+  Content-Disposition: attachment; filename="Alberto-del-Amo-CV.pdf"
+  Content-Type: application/pdf
+
+/Alberto-del-Amo-CV.pdf
+  Content-Type: application/pdf
+
+/linkedin-preview.png
+  Content-Type: image/png
+  Cache-Control: public, max-age=3600
+
+/propuesta-albali.pdf
+  Content-Type: application/pdf
+  Content-Disposition: inline; filename="propuesta-albali.pdf"
+  Cache-Control: public, max-age=3600
